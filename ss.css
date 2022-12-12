@@ -1,0 +1,59 @@
+form {
+
+    background-color: rgb(247,247,247);
+    width: 300px;
+    height: 260px;
+    float: right;
+    position: relative;
+    right: 190px;
+    top: 90px;
+
+}
+
+
+.email {
+    margin: 15px;
+    width: 270px;
+height: 23px;
+   
+}
+
+.pass {
+    margin: 15px;
+    width: 270px;
+    height: 23px;
+
+}
+.log {
+    color: white;
+    background-color: blue;
+    margin: 15px;
+    width: 270px;
+    height: 28px;
+
+}
+span {
+   color: blue;
+   padding: 80px;
+    width: 270px;
+    height: 28px;
+}
+.new {
+    margin: 15px;
+    width: 270px;
+    background-color: greenyellow;
+height: 28px;
+}
+main {
+    position: relative;
+    top: 260px;
+    left: 260px;
+}
+h1 {
+    color: blue;
+    margin: 0px;
+}
+footer {
+    margin: 15px;
+    width: 270px;
+}
